@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://localhost:9000/login/cas",
+  "name" : "Web App 01",
+  "description": "Web App 1 Authentication Service",
+  "id" : 10000003,
+  "evaluationOrder" : 2
+}
